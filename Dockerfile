@@ -1,8 +1,8 @@
-# ELK4 Dockerfile by MO
+# ELK4 Dockerfile
 #
-# VERSION 16.10.0
+
 FROM debian:jessie
-MAINTAINER MO
+MAINTAINER Abhinav
 
 # Include dist
 ADD dist/ /root/dist/
