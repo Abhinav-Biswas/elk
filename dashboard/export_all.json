@@ -1721,8 +1721,8 @@
     "_id": "Welcome-to-T-Pot",
     "_type": "visualization",
     "_source": {
-      "title": "Welcome to Onion Decoy",
-      "visState": "{\"title\":\"Welcome to Onion Decoy\",\"type\":\"markdown\",\"params\":{\"markdown\":\"# Welcome to your shiny new Onion Decoy v1.0 installation!\\n\\nBefore you get started tell `Kibana` what installation type you have chosen for T-Pot.\\n\\nYou can now click the `Load Saved Dashboard` button in the **upper right corner** to load your desired dashboard.\\n\\nMake sure to click the `Save Dashboard` button and save your dashboard as `Default`.\\n\\nIf you do not want to see this reminder any longer, just click on the `(X)` in the **upper right corner** of this visualization and save the dashboard one more time.\"},\"aggs\":[],\"listeners\":{}}",
+      "title": "Welcome to T-Pot",
+      "visState": "{\"title\":\"Welcome to T-Pot\",\"type\":\"markdown\",\"params\":{\"markdown\":\"# Welcome to your shiny new T-Pot 16.10 installation!\\n\\nBefore you get started tell `Kibana` what installation type you have chosen for T-Pot.\\n\\nYou can now click the `Load Saved Dashboard` button in the **upper right corner** to load your desired dashboard.\\n\\nMake sure to click the `Save Dashboard` button and save your dashboard as `Default`.\\n\\nIf you do not want to see this reminder any longer, just click on the `(X)` in the **upper right corner** of this visualization and save the dashboard one more time.\"},\"aggs\":[],\"listeners\":{}}",
       "uiStateJSON": "{}",
       "description": "",
       "version": 1,
