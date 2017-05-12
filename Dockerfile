@@ -28,10 +28,10 @@ RUN apt-get update -y && \
     cp supervisord.conf /etc/supervisor/conf.d/supervisord.conf && \
     cp elasticsearch.yml /etc/elasticsearch/elasticsearch.yml && \
     cp conf/* /etc/logstash/conf.d/ && \
-    cp kibana.svg /opt/kibana/src/ui/public/images/kibana.svg && \
-    cp kibana.svg /opt/kibana/optimize/bundles/src/ui/public/images/kibana.svg && \
-    cp elk.ico /opt/kibana/src/ui/public/images/elk.ico && \
-    cp elk.ico /opt/kibana/optimize/bundles/src/ui/public/images/elk.ico && \
+#    cp kibana.svg /opt/kibana/src/ui/public/images/kibana.svg && \
+#    cp kibana.svg /opt/kibana/optimize/bundles/src/ui/public/images/kibana.svg && \
+#    cp elk.ico /opt/kibana/src/ui/public/images/elk.ico && \
+#    cp elk.ico /opt/kibana/optimize/bundles/src/ui/public/images/elk.ico && \
     cd / && \
 
 # Setup user, groups and configs
